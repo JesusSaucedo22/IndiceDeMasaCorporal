@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\bin\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.deps.json
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\bin\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.dll
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\bin\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.pdb
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.AssemblyInfo.cs
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.dll
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\refint\IndiceDeMasaCorporal.CalculadorImc.dll
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadorImc.pdb
+C:\Users\Acer\Desktop\programas\7 IndiceDeMasa\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadorImc\obj\Debug\net8.0\ref\IndiceDeMasaCorporal.CalculadorImc.dll
